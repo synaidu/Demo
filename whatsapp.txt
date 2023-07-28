@@ -19,4 +19,4 @@ update_time()
 
 # Run the Tkinter main loop
 root.mainloop()
-              tdf   vizag      naidu 
+              TheDigiFac   vizag      naidu 
